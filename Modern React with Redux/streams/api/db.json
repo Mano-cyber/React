@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "Mano",
+      "description": "Money",
+      "userId": "100256658842110395822",
+      "id": 1
+    },
+    {
+      "description": "rendered",
+      "title": "list",
+      "userId": "100256658842110395822",
+      "id": 2
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Didn't expect that!",
+      "userId": "100256658842110395822",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should't see this on the form page!",
+      "userId": "100256658842110395822",
+      "id": 4
+    },
+    {
+      "title": "miyelani",
+      "description": "nfs most wanted",
+      "userId": "100256658842110395822",
+      "id": 5
+    }
+  ]
+}
